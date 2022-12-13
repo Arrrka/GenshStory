@@ -1,0 +1,32 @@
+/* RECENT POSTS -----------------------------------------------*/
+
+.recent-post{
+	margin-bottom: 21px;
+	
+}
+
+
+.recent-post .thumb{
+	display: block;
+	float: left;
+	background: #f1f1f1;
+	line-height: 0em;
+	padding: 5px;
+	border-radius: 50%;  /* Скругление углов изображения */
+    border: 5px solid #fff; /* Цвет и ширину рамки */
+    box-shadow: 2px 1px 5px #999999; /* Цвет и размер тени */
+	
+
+	
+}
+
+
+.recent-post .post-head{
+	width: 140px;
+	display: block;
+	float: right;
+}
+
+.recent-post span{
+	display: block;
+}
