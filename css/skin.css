@@ -10,7 +10,10 @@ body{
 header,
 footer{
 	background-image: url(../img/noise.png) repeat;
-	background-color: #383f47;
+	background-image: url(../img/ZadPered.png) ;
+	background-size: cover;
+	
+	background-size: 100%
 }
 
 body a{ color: #383f47; }

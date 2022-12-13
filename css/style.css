@@ -380,6 +380,7 @@ header #logo{
 #main{ 
 	width: 100%;
 	position: relative;
+	/* background-image: url(../img/Zad.png); */
 }
 
 #main .wrapper{ 
