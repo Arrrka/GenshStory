@@ -4,23 +4,21 @@ body{
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 13px;
 	background: #efece8;
-	color: #888;
+	color: none;
 }
 
 header,
 footer{
-	background-image: url(../img/noise.png) repeat;
-	background-image: url(../img/ZadPered.png) ;
-	background-size: cover;
-	
+	background-color:transparent !important;
 	background-size: 100%
+
 }
 
 body a{ color: #383f47; }
 
 a:hover{ color: #a0a0a0; }
 
-footer a:hover{ color: #fff; }
+footer a:hover{ color: none; }
 
 h1,h2,h3,h4,h5,h6{ color: #383f47; }
 
@@ -97,6 +95,8 @@ body {-webkit-tap-highlight-color: background: #fbe471}
 .no-boxshadow #main .wrapper{
 	border: 1px solid #e0e0e0;
 }
+
+
 
 /* HOME ------------------------------------------------------------*/
 

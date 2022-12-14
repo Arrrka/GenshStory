@@ -59,7 +59,7 @@ header, footer{
 
 .multiplebgs header,
 .multiplebgs footer {
-	background-image: url(../img/strip.png), url(../img/noise.png);
+	
 	background-repeat: repeat-x, repeat-x;
 	background-position: bottom center, top center;
 }
